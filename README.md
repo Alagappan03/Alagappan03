@@ -9,7 +9,7 @@ UI/UX Intern @ IEEE Young Professionals
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alagappan028@gmail.com)
                                                
 - 🌱 Currently learning Cloud Computing, Advanced AI & Embedded Systems.
-- 😄 Pronouns: Techie
+- 😄 Pronoun: Techie
 - ⚡ Fun fact: I know German.
 
 - Social Presence
