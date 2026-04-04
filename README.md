@@ -33,7 +33,7 @@ UI/UX Intern @ IEEE Young Professionals
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Samsung-Galaxy_Book5_Pro_360-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Core_Ultra-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel_Arc_Graphics-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/RAM-16GB-ED1C24?style=for-the-badge"/>
 
-[![Alagappan A github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alagappan03&bg_color=000000&color=ffffff&line=07e203&point=b4acac&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alagappan A github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alagappan03&bg_color=000000&color=ffffff&line=07e203&point=b4acac&area=true&hide_border=true)]
 
 ## 🌍 Open Source & Contributions
 
